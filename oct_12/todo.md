@@ -1,0 +1,16 @@
+- [ ] Tuple
+  - [ ] define
+  - [ ] index
+  - [ ] iterate
+  - [ ] contains
+  - [ ] remove values
+- [ ] List
+  - [ ] define 
+  - [ ] index
+  - [ ] add (append, update)
+  - [ ] remove (del, remove)
+  - [ ] contains
+  - [ ] reverse
+- [ ] Set
+  - [ ] define 
+  - [ ] 
